@@ -1,5 +1,4 @@
-# Data-Structures-and-Algorithms-Specialization
+# Algorithmic Toolbox
+__Algorithmic problems in C++__
 
-__Algorithmic and data structures Specialization in C++__
-
-Course based on the application of concept through assignments and projects. This repository contains the weekly assignments for each course (Ongoing).
+Application of concepts of algorithmic, initally from the course "Algorithmic Toolbox" previously on Coursera.
